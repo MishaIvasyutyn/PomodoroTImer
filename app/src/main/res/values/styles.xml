@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_x_xs_11_pro___1 styles -->
+
+	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+	<style name="Relax" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/relax</item>
+		<item name="colorPrimaryDark">@color/relax</item>
+		<item name="colorAccent">@color/relax</item>
+	</style>
+	<style name="Breakin" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/_bg__break_color</item>
+		<item name="colorPrimaryDark">@color/rectangle_34_color</item>
+	</style>
+	<style name="Workin" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/_bg__break_color</item>
+		<item name="colorPrimaryDark">@color/workin</item>
+	</style>
+	<style name="Settings" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/_bg__break_color</item>
+		<item name="colorPrimaryDark">@color/settings</item>
+	</style>
+</resources>

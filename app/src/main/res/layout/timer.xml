@@ -1,0 +1,310 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		progam
+     *	@date 		0
+     *	@title 		progam
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.2.9.xd
+     *
+     */
+    -->
+
+
+    <RelativeLayout
+        android:id="@+id/content_container"
+        android:layout_width="wrap_content"
+        android:layout_height="798dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <View
+            android:id="@+id/_bg__progam"
+            android:layout_width="460dp"
+            android:layout_height="798dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/_bg__progam_shape" />
+
+        <ImageView
+            android:id="@+id/path_2"
+            android:layout_width="700dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="-16dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="-20dp"
+            android:contentDescription="path_2"
+            android:src="@drawable/path_2" />
+
+        <TextView
+            android:id="@+id/your_pomadoro_timer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginStart="34dp"
+            android:layout_marginLeft="75dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginEnd="79dp"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:text="Your Pomadoro Timer"
+            android:textColor="@color/your_pomadoro_timer_color"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/rectangle_3"
+            android:layout_width="281dp"
+            android:layout_height="7dp"
+            android:layout_marginStart="19dp"
+            android:layout_marginLeft="19dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/rectangle_3_shape" />
+
+        <View
+            android:id="@+id/rectangle_4"
+            android:layout_width="wrap_content"
+            android:layout_height="61dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="-12dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="94dp"
+            android:background="@drawable/rectangle_4_shape" />
+
+
+        <View
+            android:id="@+id/rectangle_5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="139dp"
+            android:alpha="0.87999999523163"
+            android:background="@drawable/rectangle_5_shape" />
+
+        <View
+            android:id="@+id/rectangle_6"
+            android:layout_width="302dp"
+            android:layout_height="423dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="57dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="121dp"
+            android:layout_marginEnd="52dp"
+            android:background="@drawable/rectangle_6_shape"
+            tools:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/path_3"
+            android:layout_width="348dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rectangle_4"
+            android:layout_marginLeft="52dp"
+            android:layout_marginTop="8dp"
+            android:contentDescription="path_3"
+            android:src="@drawable/path_5"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/_25_00__"
+            android:layout_width="354dp"
+            android:layout_height="139dp"
+            android:layout_alignStart="@+id/rectangle_6"
+            android:layout_alignTop="@+id/path_3"
+            android:layout_alignEnd="@+id/rectangle_6"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginStart="-7dp"
+            android:layout_marginLeft="93dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginEnd="-1dp"
+            android:alpha="0.54117647058824"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center"
+            android:text="@string/_25_00___string"
+            android:textColor="#3F423F"
+            android:textSize="85sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:id="@+id/group_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="173dp"
+            android:layout_marginTop="366dp" />
+
+        <TextView
+            android:id="@+id/timer"
+            android:layout_width="325dp"
+            android:layout_height="126dp"
+            android:layout_alignTop="@+id/path_10"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginStart="45dp"
+            android:layout_marginLeft="143dp"
+            android:layout_marginTop="42dp"
+            android:layout_marginEnd="41dp"
+            android:alpha="0.76999998092651"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:shadowColor="#000000"
+            android:shadowDx="0"
+            android:text="@string/timer_string"
+            android:textColor="@color/timer_color"
+            android:textSize="46sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/path_10"
+            android:layout_width="479.95043945312dp"
+            android:layout_height="19dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="67dp"
+            android:contentDescription="path_10"
+            android:src="@drawable/path_10" />
+
+
+        <TextView
+            android:id="@+id/time_for_a_work"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rectangle_6"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginStart="-52dp"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="41dp"
+            android:layout_marginBottom="166dp"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:shadowColor="#00FFFFFF"
+            android:shadowDx="0"
+            android:text="@string/time_for_a_work_string"
+            android:textColor="@color/your_pomadoro_timer_color"
+            android:textSize="36sp" />
+
+        <RelativeLayout
+            android:id="@+id/group_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="345dp"
+            android:layout_marginTop="139dp" />
+
+
+        <Button
+            android:id="@+id/imageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/timer"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="115dp"
+            android:layout_marginTop="87dp"
+            android:onClick="buttonClick"
+            android:background="@drawable/pause"
+            android:src="@drawable/pause" />
+        <Button
+            android:id="@+id/imageButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/timer"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="115dp"
+            android:layout_marginTop="87dp"
+            android:background="@drawable/play"
+            android:src="@drawable/play" />
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="114dp"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="286dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="133dp"
+            android:src="@drawable/tomato1" />
+
+        <ImageView
+            android:id="@+id/skipp"
+            android:layout_width="60dp"
+            android:layout_height="62dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="63dp"
+            android:onClick="skip"
+            android:layout_marginBottom="262dp"
+            android:src="@drawable/skip" />
+
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animation1"
+            android:onClick="next"
+            android:layout_width="54dp"
+            android:layout_height="59dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="3dp"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="settingsfinal.json"
+            app:lottie_loop="false" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="60dp"
+            android:layout_height="62dp"
+            android:layout_alignBottom="@+id/rectangle_6"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="66dp"
+            android:layout_marginBottom="6dp"
+            android:background="@drawable/rollback" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="60dp"
+            android:layout_height="62dp"
+            android:layout_alignEnd="@+id/skipp"
+            android:layout_marginEnd="-3dp"
+            android:layout_marginBottom="-5dp"
+            android:background="@drawable/breakbutton"
+            android:onClick="skip" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/officebreak"
+            android:layout_width="308dp"
+            android:layout_height="267dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="263dp"
+            android:layout_marginEnd="23dp"
+            android:layout_marginBottom="3dp"
+            android:visibility="invisible"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="ofiicebreak.json"
+            app:lottie_loop="false" />
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

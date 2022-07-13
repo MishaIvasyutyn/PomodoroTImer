@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_x_xs_11_pro___1 colors -->
+
+	<color name="colorPrimary">#B7E23529</color>
+	<color name="colorPrimaryDark">#B7E23529</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__iphone_x_xs_11_pro___1_color">#ffffff</color>
+	<color name="rectangle_1_color">#ED59E330</color>
+	<color name="start_color">#f3eeee</color>
+	<color name="pomadoro_color">#ffffff</color>
+	<color name="_bg__progam_color">#FFFFFF</color>
+	<color name="your_pomadoro_timer_color">#ffffff</color>
+	<color name="rectangle_4_color">#e6635c</color>
+	<color name="_25_00___color">#555654</color>
+	<color name="ellipse_1_color">#fa5757</color>
+	<color name="timer_color">#fb7676</color>
+	<color name="rectangle_19_color">#88e694</color>
+	<color name="_bg__break_color">#00d58f</color>
+	<color name="rectangle_34_color">#77dba2</color>
+	<color name="timer_colorr">#3ce199</color>
+	<color name="your_pomadoro_timer_colorr">#ffffff</color>
+	<color name="rectangle_35_color">#ffffff</color>
+	<color name="_5_00___color">#040404</color>
+	<color name="rectangle_36_color">#39d697</color>
+	<color name="relax">#382B79</color>
+	<color name="workin">#34dbeb</color>
+	<color name="settings">#bec4c4</color>
+	</resources>
+
